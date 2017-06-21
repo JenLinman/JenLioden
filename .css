@@ -1,0 +1,21 @@
+
+body {
+font-family: 'Bubbler One', sans-serif;
+background: "http://i.imgur.com/SIdmgv8.png";
+background-color: #f46842;
+background-attachment: fixed;
+}
+
+.comic {
+color: white;
+width: 740px;
+height: 500px;
+overflow: scroll;
+}
+ 
+.lion {
+color: white;
+width: 740px;
+height: 500px;
+overflow: scroll;
+}
